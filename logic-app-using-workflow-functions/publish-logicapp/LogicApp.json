@@ -44,7 +44,7 @@
     "LogicAppName": {
       "type": "string",
       "minLength": 1,
-      "defaultValue": "raz-mediaservices-publish-workflow"
+      "defaultValue": "testlogicams"
     }
   },
   "variables": {},
